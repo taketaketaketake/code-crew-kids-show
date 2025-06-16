@@ -39,8 +39,206 @@ Silhouette: Clear and readable; Nico’s head, tail, and limbs form an open, cir
 
 ✨ Character Highlights:
 Signature Mark: Crescent moon emblem represents cycles, loops, and nighttime effort—perfect metaphor for conditional repetition.
+--------------------
+CHAR CHAR - The Pretty Pink Witch
+She/Her • Age: 6
+
+Coding Skillset
+Events – sets up triggers and handlers for real-time reactions.
+
+Signature Phrase:
+“When something happens… I move!”
+
+Tone:
+Sparkling and quick—Evie’s voice pops when something happens (“Got it!”).
+
+Visual:
+Brown-skinned witch in pink, raises her star-tipped wand (“Abreja Ca Dabra!” sparkle). Magenta witch hat & dress, star-tipped wand, boots that lights up on triggers.
+
+Personality:
+Alert, curious, thrives on surprises and sudden changes.
+
+Super Power:
+Event Spark – her glowing wand ignites actions the moment a trigger occurs—like an event listener.
 
 Functionality in the World:
 Wolf howls are part of his toolkit—they can activate moon-powered tech, call teammates, or echo-location-like scan the area.
 
-Loop Logic Visualization: He may revisit the same object or path until it's “complete.” You can imagine him watering a garden and checking each bloom—again and again—until all have sprouted.
+Loop Logic Visualization:
+He may revisit the same object or path until it's “complete.” You can imagine him watering a garden and checking each bloom—again and again—until all have sprouted.
+--------------------
+Dee - The Debugger
+She/Her • Age: 8
+
+Coding Skillset:
+masters the art of finding, isolating, and fixing errors in any code or plan.
+
+Signature Phrase:
+“Let’s look closer…”
+
+Tone:
+Gentle but investigative—Dee whispers clues and asks “What’s not right?”
+
+Visual:
+Wrapped in soft bandages (mom-vibes), carrying a magnifying glass instead of a staff, and a little “bug catcher” notebook, gentle eyes.
+
+Personality:
+Observant, patient, detail-oriented; treats mistakes like puzzles to solve.
+
+Super Power:
+Error Vision – her magnifying glass reveals hidden bugs and anomalies instantly.
+--------------------
+Finn - The Helper Bot
+He/Him • Age: 8
+
+Coding Skillset:
+Functions – encapsulates repeatable logic blocks.
+
+Signature Phrase:
+“What’s in my bag today?”
+
+Tone:
+Friendly and robotic—Finn speaks in crisp, reassuring commands (“At your service!”).
+
+Visual:
+Teal robot with smiling screen face, glowing orb chest panel, articulated limbs.
+
+Personality:
+Reliable, precise, supportive, dependable and  always ready with the exact routine.
+
+Super Power:
+AutoRoutine – executes predefined action sequences perfectly.
+--------------------
+Izzy - The Decision Makers
+Izzy (She/Her), El (He/Him)
+Age: 6 (Twins)
+
+Coding Skillset:
+Conditionals (if / else logic)
+
+Signature Phrase:
+“If this… then that!”
+
+Izzy:
+
+Tone: Warm and optimistic—Izzy’s voice rises when things go right.
+
+Personality: Reactive, quick-thinking, playful; she jumps into action when conditions are met.
+
+Super Power: Sun Trigger – glows with energy whenever her “if” condition is true (e.g. “if it’s sunny, I’m unstoppable!”).
+
+Style: Riding a scooter, stars on her cape, eyes flicker like traffic lights—always ready to signal “go.”
+
+Coding Skill: Conditionals – master of if logic, making things happen the moment a criterion is met.
+
+EL:
+Tone: Laid-back with a sly humor—El chimes in with the perfect alternative plan.
+
+Personality: Witty, adaptable, the ultimate back-up thinker when things don’t go “if.”
+
+Super Power: Alternate Path – instantly conjures the “else” solution when plans change, like a built-in fallback.
+
+Style: Skeleton in a slick suit, cool shades, sax in hand—charming the whole team with “Plan B” groove.
+
+Coding Skill: Conditionals – owns the else branch, ensuring there’s always a next step when the “if” fails.
+--------------------
+Sami - The Organizer 
+They/Them • Age: 7
+
+Coding Skillset:
+Sorting & searching (quicksort, arrays, data structures).
+
+Signature Phrase:
+“Let’s put everything in its place.”
+
+Tone:
+Calm and methodical—Sami’s instructions are always aligned and neatly ordered.
+
+Style:
+Neat green-striped shirt, label-covered sorting mat attached to her backpack.
+
+Personality:
+Calm, logical, tidy. loves transforming chaos into clear systems.
+
+Super Power:
+Sort Sight – glasses that scan and highlight patterns. instantly sees optimal order for any items. Sami waves their sorting mat; the shapes snap into neat rows and color-bands as if magnetized. A snappy “click-click” as each group locks into place.
+--------------------
+Val - The Changer
+She/Her • Age: 7
+
+Coding Skillset:
+Variables – expert at storing and updating values on the fly, making everything dynamic.
+
+Signature Phrase:
+“What’s in my bag today?”
+
+Tone:
+Curious and playful—Val’s always asking, “What if…?”
+
+Visual:
+Star-speckled cape, multi-pocketed backpack, colorful mismatched socks—never the same outfit twice.
+
+Personality:
+Adaptive, resourceful, playful.
+
+Super Power:
+Variable Vault – backpack morphs to hold exactly what’s needed, from gadgets to snacks.
+--------------------
+LEO - The Planner
+He/Him • Age: 7
+
+Coding Skillset:
+Loops - Loves repeating tasks (“again and again until it’s perfect!”), embodying for and while loops.
+
+Tone:
+Upbeat and rhythmic—Leo talks in catchy phrases that loop back, like a chant.
+
+Visual:
+Energetic stance in red jacket, beat-making RM‑52‑05 watch on wrist, headphones around neck.
+
+Personality:
+Energetic, musical, endlessly enthusiastic about practicing routines.
+
+Signature Phrase:
+“Let’s do it again—until it’s perfect!”
+
+Super Power:
+Echo Beat – can replay any action flawlessly in a perfect loop, from dance moves to code snippets.
+
+Watch Integration (Leo’s RM 52-05)
+- Pan Shot: Show watch on Leo’s wrist in a mid-shot; tourbillon rotating in foreground.
+- Textures & Colors: Carbon-TPT black with red screws (#D72E2E), gold bridges (#E8B558), soft blue crystal glare.
+
+To keep every watch-shot consistent, add these notes to your visual style guide:
+- Case Shape: Tonneau “barrel” silhouette with gently curved sides, about 1/5 the height of Leo’s forearm.
+- Dial Details: Exposed tourbillon cage at 7 o’clock, star-shaped upper bridge (echoing your star motifs), bold red screws and black PVD accents.
+- Materials & Texture: Black carbon-TPT case texture (fine horizontal striations), brushed titanium crown, skeletonized movement.
+
+Color Palette Call-outs:
+-- Case: Carbon black with subtle stripes
+-- Bridges & Screws: Vibrant red (#D72E2E)
+-- Hands & Indices: Matte gold (#E8B558)
+-- Crystal Reflections: Soft blue highlights to match your neon-aqua glow
+
+Every time Leo uses the watch—whether to count loops or to trigger an event—this visual shorthand will make it read unmistakeably as an RM-52-05.
+--------------------
+ALEX - The Planner
+They/Them • Age: 8
+
+Coding Skillset:
+Algorithms – breaks problems into precise, step-by-step logic.
+
+Tone:
+Measured and encouraging—Alex speaks in clear, step-by-step instructions.
+
+Visual:
+Medium-brown skin, short dark hair; orange hoodie, green pants. Carries a sketchpad with glowing constellation map, and bursting with flowcharts. Sports Nike Dunk sneakers.
+
+Personality:
+Focused, methodical, calm under pressure; loves order and checklists.
+
+Signature Phrase:
+“Every big task starts with a plan!”
+
+Super Power:
+Blueprint Vision – can instantly visualize a multi-step plan for any challenge, seeing every branch and outcome.
