@@ -119,8 +119,30 @@ Signature Elements & Effects
 - Phasing Effect: When crew enter, the bubble ripples into full opacity with a soft chime.
 -------------------------
 The Bubble Station
-- Signature Elements & Effects
-- Panoramic Composition
-- Lighting & Color
-- Textures & Materials
-- Environment & Mood
+
+Signature Elements & Effects
+Bubble Domes: The station is composed of interconnected transparent domes that resemble soap bubbles—shimmering with subtle rainbow sheens. Each dome houses a different function (command, garden, launch pad).
+Floating Platforms: Hovering bubble pads drift slowly around the main station, used for docking or play. They bounce slightly when characters land on them, with a soft "boing" sound and sparkle particles.
+Portal Bubbles: Characters can enter glowing bubbles that pop them to different parts of the universe in swirly-warp animations. These use a light "nebula swipe" effect as they dissolve.
+Bubble Cannons: Gently pulse with aqua neon and shoot communication orbs (sparkly, floaty message-bubbles) into space.
+
+Panoramic Composition
+Layout: The station spans the lower third of the frame, nestled in a galactic cloud. Its transparent domes and platforms arc across the horizon, forming a gentle curve that draws the eye side-to-side.
+Negative Space: The upper two-thirds are filled with a slow-scrolling parallax starfield—used for dynamic rocket entries and floating character reveals.
+Movement: The domes occasionally shimmer or rotate slightly, with calm bobbing motions to imply low-gravity mechanics.
+
+Lighting & Color
+Ambient Light: A dreamy mix of twilight purples and aquas. The station subtly glows with rim lighting and soft inner glows, especially at night.
+Neon Accents: Bubble rims sparkle with light aqua (#0EF2D4) and soft chartreuse flares (#CEF64D).
+Bubble Glow: Every bubble has a soft outer glow (10–15px) and shimmery refractions, as if refracting distant stars.
+Interior Lighting: Warm amber tones (#FFD55A) spill from inside the domes, suggesting activity and safety.
+
+Textures & Materials
+Bubble Surface: Smooth and glassy with subtle rainbow gradients—uses 5–10% light opacity swirl patterns that catch nearby neon.
+Floors & Rails: Friendly rounded metal with brushed textures. Slightly reflective, keeping a clean, futuristic-yet-warm feel.
+Nature Touches: Some domes include mossy paths or bark-like support columns, colored with stylized green-blue blends to stay consistent with the palette.
+
+Environment & Mood
+Mood: Curious, playful, serene. A floating haven in deep space—a place where ideas spark, teamwork begins, and new missions launch.
+Sound Design: Light ambient hum with bubbly pops, sparkly swipes, and soothing "galactic breeze" tones. When characters move between domes, audio whooshes pan across the stereo field.
+Skybox: Deep navy gradient scattered with particles and floating diamond/star sprites. Layers of swirling gas clouds move slowly to suggest distance and depth.
