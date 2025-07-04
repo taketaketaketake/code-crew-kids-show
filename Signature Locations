@@ -53,7 +53,6 @@ Environment & Mood
 - A mysterious egg‑shaped pod floating serenely above the curve of a stylized home planet, surrounded by drifting satellites, tiny space debris, and cosmic dust motes.
 - The shell appears compact, but once opened reveals a vast, cavernous interior—hinting at limitless capacity beyond the exterior.
 
-
 Textures & Materials
 - Exterior Shell: Mirror‑smooth lavender lacquer with crisp neon‑aqua seam lines.
 - Hatch & Crack Lines: Natural, organic fractures form a curved hatch that parts smoothly, edged in pulsing neon‑aqua light.
@@ -118,7 +117,7 @@ Signature Elements & Effects
 - Map Activation: Touching a constellation causes that region’s glass panel to glow and project a holographic planet.
 - Phasing Effect: When crew enter, the bubble ripples into full opacity with a soft chime.
 -------------------------
-The Bubble Station
+3.6 The Bubble Station
 
 Signature Elements & Effects
 Bubble Domes: The station is composed of interconnected transparent domes that resemble soap bubbles—shimmering with subtle rainbow sheens. Each dome houses a different function (command, garden, launch pad).
@@ -146,3 +145,4 @@ Environment & Mood
 Mood: Curious, playful, serene. A floating haven in deep space—a place where ideas spark, teamwork begins, and new missions launch.
 Sound Design: Light ambient hum with bubbly pops, sparkly swipes, and soothing "galactic breeze" tones. When characters move between domes, audio whooshes pan across the stereo field.
 Skybox: Deep navy gradient scattered with particles and floating diamond/star sprites. Layers of swirling gas clouds move slowly to suggest distance and depth.
+--------------------
